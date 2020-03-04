@@ -12,7 +12,7 @@ tags:
 banner: img/blog/rstudioconf-horst-postcard-square.jpg
 ---
 
-*Last week Openscapes had its first-ever in-person 2-day workshop version of the Champions program at the National Oceanic and Atmospheric Administration (NOAA) with six teams of fisheries scientists from 's Northeast Fisheries Science Center (NEFSC), Woods Hole Oceanographic Institute (WHOI), and University of Massachusetts Dartmouth's School for Marine Science & Technology (SMAST). It was really wonderful to meet and work with these thoughtful scientists in person, and to see them leave the workshop energized to strengthen teamwork and community-based learning around open data science. This post will focus on what the participants did and achieved and a following post will include more details about the workshop structure.*
+*Last week Openscapes had its first-ever in-person 2-day workshop version of the Champions program at the National Oceanic and Atmospheric Administration (NOAA) with six teams of fisheries scientists from NOAA's Northeast Fisheries Science Center (NEFSC), Woods Hole Oceanographic Institute (WHOI), and University of Massachusetts Dartmouth's School for Marine Science & Technology (SMAST). It was really wonderful to meet and work with these thoughtful scientists in person, and to see them leave the workshop energized to strengthen teamwork and community-based learning around open data science. This post will focus on what the participants did and achieved and a following post will include more details about the workshop structure.*
 
 ---
 
@@ -66,7 +66,7 @@ We concluded the workshop with participants sharing their "Pathways", which are 
 
 > "Turkeytime chats are coming (named for our gang of turkeys that hangs around our building)" - post-workshop survey
 
-A few local meetups already exist that others know about and are welcome to attend, including the a Shiny meetup at NEFSC and the Quantfish woRkshops at UMass Dartmouth's School for Marine Science & Technology (SMAST). Further, there was discussion about having a local [#TidyTuesday meetup](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and starting a local [RLadies](https://rladies.org) chapter in Cape Cod!
+A few local meetups already exist that others know about and are welcome to attend, including the a Shiny meetup at NEFSC and the Quantfish woRkshops at UMass Dartmouth's School for Marine Science & Technology (SMAST). Further, there was discussion about having a local [#TidyTuesday meetup](https://www.openscapes.org/blog/2019/05/02/tidy-tuesday-coding-club/) and starting a local [RLadies](https://rladies.org) chapter on Cape Cod!
 
 <br>
 <center>
